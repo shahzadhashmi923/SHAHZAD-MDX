@@ -1,0 +1,7 @@
+{
+  "name": "shahzad-pair",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "express": "latest"
+  }
+}
